@@ -1,2 +1,3 @@
 rootProject.name = 'aws'
 
+include "left-pad-lambda"
