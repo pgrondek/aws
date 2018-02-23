@@ -1,3 +1,4 @@
 rootProject.name = 'aws'
 
 include "left-pad-lambda"
+include "s3-lambda"
